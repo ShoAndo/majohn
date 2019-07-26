@@ -1,0 +1,6 @@
+framework module Pods_MarjanProject {
+  umbrella header "Pods-MarjanProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
